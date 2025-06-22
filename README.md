@@ -1,6 +1,6 @@
-# InsightsHR 🚧 (Under Construction)
+# InsightsHR
 
-Welcome to *InsightsHR* – an HR Analytics project focused on understanding and predicting employee attrition to help organizations retain top talent and improve workplace satisfaction.
+Welcome to *InsightsHR*– an HR Analytics project focused on understanding and predicting employee attrition to help organizations retain top talent and improve workplace satisfaction.
 
 ---
 
@@ -36,13 +36,13 @@ InsightsHR/
 
 ---
 
-## **🚀 Current Progress**
+## **🚀 Project Achievements**
 
 - ✅ Dataset acquired and cleaned
 - ✅ Exploratory Data Analysis (EDA)
-- 🔄 Predictive Modeling (In Progress)
-- 🔄 Dashboard Development (In Progress)
-- 🔄 Final Report (Upcoming)
+- ✅ Predictive Modeling
+- ✅ Dashboard Development
+- ✅ Final Report
 
 ---
 
