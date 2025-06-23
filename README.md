@@ -48,7 +48,7 @@ InsightsHR/
 
 ## **📌 Key Features**
 
-- Attrition prediction using logistic regression
+- Attrition prediction using logistic regression, decision tree, random forest, and XGBoost models
 - Interactive dashboards with key HR KPIs
 - Visual storytelling to highlight employee satisfaction, salary trends, and department-wise attrition
 
